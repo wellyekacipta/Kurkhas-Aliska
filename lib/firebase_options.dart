@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyA-MpO0I_4SZipR1nMsu3yyPWkzn2-4GaA',
-    appId: '1:671915168478:android:3fc0b3f9c8dfccbb21684f',
+    appId: '1:671915168478:android:3c975410528da1b121684f',
     messagingSenderId: '671915168478',
     projectId: 'muslimapp-da8fc',
     storageBucket: 'muslimapp-da8fc.appspot.com',

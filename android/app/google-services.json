@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:671915168478:android:3fc0b3f9c8dfccbb21684f",
+        "mobilesdk_app_id": "1:671915168478:android:fb8f5d981ca813f421684f",
         "android_client_info": {
-          "package_name": "alirsyadkrw.kurkhasaliska"
+          "package_name": "com.zeekands.muslim_app"
         }
       },
       "oauth_client": [
@@ -43,9 +43,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:671915168478:android:fb8f5d981ca813f421684f",
+        "mobilesdk_app_id": "1:671915168478:android:3c975410528da1b121684f",
         "android_client_info": {
-          "package_name": "com.zeekands.muslim_app"
+          "package_name": "wellyekacipta.kurkhasaliska.alirsyadkrw"
         }
       },
       "oauth_client": [
