@@ -1,0 +1,54 @@
+{
+    "menu" : [
+        {
+            "name" : "Doa \nHarian",
+            "image" : "assets/icon/mosque.png",
+            "routes" : "/doa"
+        },
+        {
+            "name" : "Al Quran \nTerjemahan",
+            "image" : "assets/icon/quran hijau.png",
+            "routes" : "/quran"
+        },{
+            "name" : "Dizkir \nPagi Petang",
+            "image" : "assets/icon/open-hands.png",
+            "routes" : "/atkhtar"
+        },{
+            "name" : "Kalender\nHijriyah",
+            "image" : "assets/icon/night.png",
+            "routes" : "-"
+        },{
+            "name" : "Dzikir \nBada Sholat",
+            "image" : "assets/icon/praying.png",
+            "routes" : "/dzikir"
+        },{
+            "name" : "Hadist",
+            "image" : "assets/icon/clean_clothes.png",
+            "routes" : "/hadist"
+        },{
+            "name" : "Qiblat \nShalat",
+            "image" : "assets/icon/quran hijau.png",
+            "routes" : "/qiblah"
+        },{
+            "name" : "Tutorial Ibadah",
+            "image" : "assets/icon/muslim.png",
+            "routes" : "-"
+        },{
+            "name" : "Tartili \nAl Irsyad",
+            "image" : "assets/icon/quran hijau.png",
+            "routes" : "/tartili"
+        },{
+            "name" : "Qiblat \nShalat",
+            "image" : "assets/icon/quran hijau.png",
+            "routes" : "/qiblah"
+        },{
+            "name" : "Ramadhan",
+            "image" : "assets/icon/family.png",
+            "routes" : "/ramadhan"
+        },{
+            "name" : "Haji \nUmroh",
+            "image" : "assets/icon/quran hijau.png",
+            "routes" : "/haji-umrah"
+        }
+    ]
+}
