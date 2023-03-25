@@ -7,6 +7,42 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:671915168478:android:3fc0b3f9c8dfccbb21684f",
+        "android_client_info": {
+          "package_name": "alirsyadkrw.kurkhasaliska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671915168478-f48uivuce8bj1bslm80oc6qksv33vved.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-MpO0I_4SZipR1nMsu3yyPWkzn2-4GaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671915168478-f48uivuce8bj1bslm80oc6qksv33vved.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671915168478-m3t16h9l69a3gvflu264h6d6ijitr7ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeekands.muslimApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:671915168478:android:fb8f5d981ca813f421684f",
         "android_client_info": {
           "package_name": "com.zeekands.muslim_app"
@@ -29,6 +65,13 @@
             {
               "client_id": "671915168478-f48uivuce8bj1bslm80oc6qksv33vved.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "671915168478-m3t16h9l69a3gvflu264h6d6ijitr7ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeekands.muslimApp"
+              }
             }
           ]
         }
